@@ -17,3 +17,12 @@ D:\CG\CG_3\CG_3\obj\Debug\CG_3.FrmMain.resources
 \\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.FrmMain.resources
 \\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.Properties.Resources.resources
 \\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.csproj.GenerateResource.Cache
+D:\GitHub\CG\CG_3\CG_3\bin\Debug\CG_3.exe.config
+D:\GitHub\CG\CG_3\CG_3\obj\Debug\CG_3.exe
+D:\GitHub\CG\CG_3\CG_3\obj\Debug\CG_3.pdb
+D:\GitHub\CG\CG_3\CG_3\obj\Debug\CG_3.csprojResolveAssemblyReference.cache
+D:\GitHub\CG\CG_3\CG_3\obj\Debug\CG_3.FrmMain.resources
+D:\GitHub\CG\CG_3\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+D:\GitHub\CG\CG_3\CG_3\obj\Debug\CG_3.csproj.GenerateResource.Cache
+D:\GitHub\CG\CG_3\CG_3\bin\Debug\CG_3.exe
+D:\GitHub\CG\CG_3\CG_3\bin\Debug\CG_3.pdb

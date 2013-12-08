@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Drawing;
+﻿using System.Drawing;
 
 namespace CG_3
 {
@@ -12,6 +7,7 @@ namespace CG_3
         private int _x;
         private int _y;
         private int _z;
+        private Color _color;
 
         public Color Color
         {
@@ -36,7 +32,5 @@ namespace CG_3
             get { return _x; }
             set { _x = value; }
         }
-
-        private Color _color;
     }
 }

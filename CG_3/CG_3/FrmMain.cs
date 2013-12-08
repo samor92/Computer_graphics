@@ -1,16 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Tao.FreeGlut;
-using Tao.OpenGl;
 
 namespace CG_3
 {
@@ -20,10 +11,17 @@ namespace CG_3
         private Tools _gTools;
         private Light _light;
 
+        public FrmMain()
+        {
+            InitializeComponent();
+            if (!Init())
+                Close();
+        }
+
         private bool Init()
         {
-            Deploy deploy = new Deploy();
-            Thread depThread = new Thread(new ThreadStart(deploy.RecreateAllExecutableResources));
+            var deploy = new Deploy();
+            var depThread = new Thread(deploy.RecreateAllExecutableResources);
             depThread.Start();
             depThread.Join();
 
@@ -41,16 +39,9 @@ namespace CG_3
             }
         }
 
-        public FrmMain()
-        {
-            InitializeComponent();
-            if (!Init())
-                this.Close();
-        }
-
         private void sogMain_MouseMove(object sender, MouseEventArgs e)
         {
-            _gTools.Render(sogMain, new Point{X = e.X, Y = e.Y}, _cone);
+            _gTools.Render(sogMain, new Point {X = e.X, Y = e.Y}, _cone);
         }
 
         private void btnConeSettingsApply_Click(object sender, EventArgs e)
@@ -72,19 +63,22 @@ namespace CG_3
         {
             _light = new Light
             {
-                Color = cdLightMain.Color, 
-                X = (int) nupLightX.Value, 
+                Color = cdLightMain.Color,
+                X = (int) nupLightX.Value,
                 Y = (int) nupLightY.Value,
                 Z = (int) nupLightZ.Value
             };
             _gTools.SetLight(_light);
-
         }
 
-        private void FrmMain_FormClosed(object sender, FormClosedEventArgs e)
+        private void gbConeMain_Enter(object sender, EventArgs e)
         {
-
+            AcceptButton = btnConeSettingsApply;
         }
 
+        private void gbLightMain_Enter(object sender, EventArgs e)
+        {
+            AcceptButton = btnLightSettingsApply;
+        }
     }
 }
