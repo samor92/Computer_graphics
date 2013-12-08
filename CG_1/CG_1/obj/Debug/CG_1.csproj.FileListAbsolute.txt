@@ -1,0 +1,9 @@
+D:\CG\CG_1\CG_1\bin\Debug\CG_1.exe.config
+D:\CG\CG_1\CG_1\bin\Debug\CG_1.exe
+D:\CG\CG_1\CG_1\bin\Debug\CG_1.pdb
+D:\CG\CG_1\CG_1\obj\Debug\CG_1.csprojResolveAssemblyReference.cache
+D:\CG\CG_1\CG_1\obj\Debug\CG_1.FrmMain.resources
+D:\CG\CG_1\CG_1\obj\Debug\CG_1.Properties.Resources.resources
+D:\CG\CG_1\CG_1\obj\Debug\CG_1.csproj.GenerateResource.Cache
+D:\CG\CG_1\CG_1\obj\Debug\CG_1.exe
+D:\CG\CG_1\CG_1\obj\Debug\CG_1.pdb

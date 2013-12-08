@@ -1,0 +1,19 @@
+c:\users\александр\documents\visual studio 2013\Projects\CG_3\CG_3\bin\Debug\CG_3.exe.config
+D:\CG\CG_3\CG_3\bin\Debug\CG_3.exe.config
+\\Nhome_acer\d\CG\CG_3\CG_3\bin\Debug\CG_3.exe.config
+D:\CG\CG_3\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+D:\CG\CG_3\CG_3\obj\Debug\CG_3.csproj.GenerateResource.Cache
+D:\CG\CG_3\CG_3\bin\Debug\CG_3.exe
+D:\CG\CG_3\CG_3\bin\Debug\CG_3.pdb
+D:\CG\CG_3\CG_3\obj\Debug\CG_3.exe
+D:\CG\CG_3\CG_3\obj\Debug\CG_3.pdb
+D:\CG\CG_3\CG_3\obj\Debug\CG_3.csprojResolveAssemblyReference.cache
+D:\CG\CG_3\CG_3\obj\Debug\CG_3.FrmMain.resources
+\\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.exe
+\\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.pdb
+\\Nhome_acer\d\CG\CG_3\CG_3\bin\Debug\CG_3.exe
+\\Nhome_acer\d\CG\CG_3\CG_3\bin\Debug\CG_3.pdb
+\\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.csprojResolveAssemblyReference.cache
+\\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.FrmMain.resources
+\\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+\\Nhome_acer\d\CG\CG_3\CG_3\obj\Debug\CG_3.csproj.GenerateResource.Cache
